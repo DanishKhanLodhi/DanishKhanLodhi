@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @DanishKhanLodhi
+- 👀 I’m interested in Software Development and Creating Meaningful Products
+- 🌱 I’m currently based in Germany looking for tech role
+- 💞️ I’m looking to collaborate on development of AI systems or Applications
+- 📫 How to reach me danish.dk4k@gmail.com
+- ⚡ Fun fact: I love to try different pizzas
